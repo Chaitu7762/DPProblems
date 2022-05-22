@@ -10,4 +10,5 @@
             
                                            ## 2D Dp
 1.**Ninja’s Training** ----> https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003?leftPanelTab=0
+2.**Unique Paths on Grid** ----> https://www.codingninjas.com/codestudio/problems/total-unique-paths_1081470?leftPanelTab=1
  
