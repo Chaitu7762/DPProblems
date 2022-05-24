@@ -12,4 +12,6 @@
 1.**Ninja’s Training** ----> https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003?leftPanelTab=0
 
 2.**Unique Paths on Grid** ----> https://www.codingninjas.com/codestudio/problems/total-unique-paths_1081470?leftPanelTab=1
+
+3.**Minimum Path Sum** ----> https://leetcode.com/problems/minimum-path-sum/
  
