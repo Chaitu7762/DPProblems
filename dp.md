@@ -8,7 +8,7 @@
 4. **House Robber 2** (1d dp) ---> https://www.codingninjas.com/codestudio/problems/house-robber_839733?leftPanelTab=1
 
             
-                                           ## 2D Dp
+                                           ## 2D Dp (GRIDS)
 1.**Ninja’s Training** ----> https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003?leftPanelTab=0
 
 2.**Unique Paths on Grid** ----> https://www.codingninjas.com/codestudio/problems/total-unique-paths_1081470?leftPanelTab=1
@@ -18,4 +18,9 @@
 4.**Triangle** ----> https://leetcode.com/problems/triangle/
 
 5.**Maximum Path Sum in the matrix** ---> https://www.codingninjas.com/codestudio/problems/maximum-path-sum-in-the-matrix_797998?leftPanelTab=0
+
+
+                                           ## 3D Dp (GRIDS)
+ 
+1.**Chocolate Pickup** ----> https://www.codingninjas.com/codestudio/problems/ninja-and-his-friends_3125885?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=0
  
