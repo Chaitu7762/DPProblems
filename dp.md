@@ -14,4 +14,6 @@
 2.**Unique Paths on Grid** ----> https://www.codingninjas.com/codestudio/problems/total-unique-paths_1081470?leftPanelTab=1
 
 3.**Minimum Path Sum** ----> https://leetcode.com/problems/minimum-path-sum/
+
+4.**Triangle** ----> https://leetcode.com/problems/triangle/
  
