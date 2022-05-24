@@ -16,4 +16,6 @@
 3.**Minimum Path Sum** ----> https://leetcode.com/problems/minimum-path-sum/
 
 4.**Triangle** ----> https://leetcode.com/problems/triangle/
+
+5.**Maximum Path Sum in the matrix** ---> https://www.codingninjas.com/codestudio/problems/maximum-path-sum-in-the-matrix_797998?leftPanelTab=0
  
