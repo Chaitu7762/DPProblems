@@ -23,4 +23,7 @@
                                            ## 3D Dp (GRIDS)
  
 1.**Chocolate Pickup** ----> https://www.codingninjas.com/codestudio/problems/ninja-and-his-friends_3125885?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=0
- 
+
+                                          ## Dp on Subsequences/Subsets
+                                         
+ 1.**Subset Sum Equal To K** ----> https://www.codingninjas.com/codestudio/problems/subset-sum-equal-to-k_1550954?leftPanelTab=0
