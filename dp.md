@@ -36,3 +36,5 @@
                                         ## 0-1 Knapsack
                                         
 1.**0 1 Knapsack** ----> https://www.codingninjas.com/codestudio/problems/0-1-knapsack_920542?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=0
+
+2. **Minimum Elements** ----> https://www.codingninjas.com/codestudio/problems/minimum-elements_3843091?leftPanelTab=0
