@@ -40,3 +40,8 @@
 2. **Minimum Elements** ----> https://www.codingninjas.com/codestudio/problems/minimum-elements_3843091?leftPanelTab=0
 
 3. **Coin Change 2** ----> https://leetcode.com/problems/coin-change-2/
+
+
+                                        ## Unbounded Knapsack
+
+1.**Unbounded Knapsack** ----> https://www.codingninjas.com/codestudio/problems/unbounded-knapsack_1215029?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=0
