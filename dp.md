@@ -35,7 +35,7 @@
  
                                         ## 0-1 Knapsack
                                         
-1.**0 1 Knapsack** ----> https://www.codingninjas.com/codestudio/problems/0-1-knapsack_920542?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=0
+1.  **0 1 Knapsack** ----> https://www.codingninjas.com/codestudio/problems/0-1-knapsack_920542?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=0
 
 2. **Minimum Elements** ----> https://www.codingninjas.com/codestudio/problems/minimum-elements_3843091?leftPanelTab=0
 
@@ -44,6 +44,6 @@
 
                                         ## Unbounded Knapsack
 
-1.**Unbounded Knapsack** ----> https://www.codingninjas.com/codestudio/problems/unbounded-knapsack_1215029?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=0
+1. **Unbounded Knapsack** ----> https://www.codingninjas.com/codestudio/problems/unbounded-knapsack_1215029?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=0
 
 2. **Rod cutting problem** ----> https://www.codingninjas.com/codestudio/problems/rod-cutting-problem_800284?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=0
