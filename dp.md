@@ -56,3 +56,4 @@
 2.  **Longest Common Substring** ----> https://www.codingninjas.com/codestudio/problems/longest-common-substring_1235207?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=0
 3.  **Longest Palindromic Subsequence** ----> https://leetcode.com/problems/longest-palindromic-subsequence/
 4.  **Minimum insertions to make a string palindrome** ----> https://www.codingninjas.com/codestudio/problems/minimum-insertions-to-make-palindrome_985293?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=0
+5.  **Minimum Number of Deletions and Insertions** ----> https://leetcode.com/problems/delete-operation-for-two-strings/
