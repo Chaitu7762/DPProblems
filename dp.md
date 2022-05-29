@@ -49,7 +49,7 @@
 2. **Rod cutting problem** ----> https://www.codingninjas.com/codestudio/problems/rod-cutting-problem_800284?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=0
 
                                         
-                                       ## DP on Subsequences
+                                       ## DP on Strings
                                        
 1.  **Longest Common Subsequence** ----> https://www.codingninjas.com/codestudio/problems/longest-common-subsequence_624879?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos
 
@@ -57,3 +57,4 @@
 3.  **Longest Palindromic Subsequence** ----> https://leetcode.com/problems/longest-palindromic-subsequence/
 4.  **Minimum insertions to make a string palindrome** ----> https://www.codingninjas.com/codestudio/problems/minimum-insertions-to-make-palindrome_985293?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=0
 5.  **Minimum Number of Deletions and Insertions** ----> https://leetcode.com/problems/delete-operation-for-two-strings/
+6.  **Shortest Common Supersequence** ----> https://leetcode.com/problems/shortest-common-supersequence/
